@@ -9,3 +9,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+###### The following languages make use of readable english language, except the unticked one.
+- [x] HTML
+- [x] Markdown
+- [ ] Python
